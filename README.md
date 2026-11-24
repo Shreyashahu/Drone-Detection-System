@@ -1,5 +1,5 @@
 
-# Drone Detection (Dronacharya)
+# Drone Detection
 
 A deep learning neural net model to detect drone/drones from a given picture using Using Fast R-CNN architecture via Keras-Retinanet Implementation. (Dataset and Pre-Trained model provided) 
 
